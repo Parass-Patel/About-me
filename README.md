@@ -1,16 +1,39 @@
 ## Hi there 👋
 
-<!--
-**ParassKarkar06/Parasskarkar06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Paras Patel  
 
-Here are some ideas to get you started:
+🎓 Electronics & VLSI Enthusiast | 💻 Open-Source Learner | ⚡ Future Chip Designer  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me  
+- 🔹 Electronics / VLSI student passionate about **semiconductor & chip design**  
+- 🔹 Currently learning: **Linux, Git, OpenLane, Physical Design flow**  
+- 🔹 Interested in: **VLSI, Digital Design, Open-Source EDA tools**  
+- 🔹 Goal: To become a **skilled VLSI / ASIC Design Engineer**
+
+---
+
+## 🛠️ Skills & Tools  
+- 💡 Basics of Electronics & Digital Circuits  
+- 🐧 Linux (Beginner)  
+- 🌱 Git & GitHub  
+- 🔧 OpenLane / LibreLane (Learning)  
+- 💻 C Programming (Basics)
+
+---
+
+## 🎯 Future Goals  
+- 🚀 Master VLSI backend flow  
+- 🚀 Contribute to open-source EDA tools  
+- 🚀 Build real chip design projects  
+
+---
+
+## 🤝 Connect With Me  
+-  Linkdin: (www.linkedin.com/in/parass-karkar06) 
+-  Email: (paraskarkar1@gmail.com)  
+
+---
+
+⭐ *“Learning today, designing tomorrow’s chips.”*
